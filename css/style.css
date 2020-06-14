@@ -2039,7 +2039,7 @@ font-size:12px;
 padding: 10px 11px;
 }
 } 
-@media (max-width: 480px){ 
+@media (max-width : 414px ){ 
 .navStyle {
 float: left;
 width: 100%; 
